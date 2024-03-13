@@ -1,0 +1,11 @@
+{
+  "name": "gnosispay-account-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lrnt/gnosispay-account.git",
+  "author": "Laurent De Marez <laurent@demarez.org>",
+  "type": "module",
+  "dependencies": {
+    "viem": "^2.8.5"
+  }
+}
